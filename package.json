@@ -1,0 +1,23 @@
+{
+  "name": "assinment",
+  "version": "1.0.0",
+  "description": "assinment project using socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "socket.io"
+  ],
+  "author": "kapil khicher",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
